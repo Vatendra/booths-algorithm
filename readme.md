@@ -1,2 +1,2 @@
 # Booth's Algortihm
-> A C console based C program to demonstrate Booth's Algorithm.
+> A console based C program to demonstrate Booth's Algorithm.
